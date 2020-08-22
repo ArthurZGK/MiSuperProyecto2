@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 //tu evento
                         mibar.dismiss();
                     }
-                })
+                });
                 mibar.show();
     }
 }
